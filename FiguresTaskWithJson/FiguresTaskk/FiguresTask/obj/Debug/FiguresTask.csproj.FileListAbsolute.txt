@@ -1,0 +1,12 @@
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\FiguresTask.exe.config
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\FiguresTask.exe
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\FiguresTask.pdb
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\Style.dll
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\Style.pdb
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\obj\Debug\FiguresTask.csprojAssemblyReference.cache
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\obj\Debug\FiguresTask.csproj.CoreCompileInputs.cache
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\obj\Debug\FiguresTask.csproj.CopyComplete
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\obj\Debug\FiguresTask.exe
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\FiguresTask\obj\Debug\FiguresTask.pdb

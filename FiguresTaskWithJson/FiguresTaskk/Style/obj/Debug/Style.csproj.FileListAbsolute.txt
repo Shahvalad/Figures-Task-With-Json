@@ -1,0 +1,9 @@
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\bin\Debug\Style.dll
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\bin\Debug\Style.pdb
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\obj\Debug\Style.csprojAssemblyReference.cache
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\obj\Debug\Style.csproj.CoreCompileInputs.cache
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\obj\Debug\Style.csproj.CopyComplete
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\obj\Debug\Style.dll
+C:\Users\Шахвалад\Desktop\Новая папка\FiguresTaskk-master\Style\obj\Debug\Style.pdb
